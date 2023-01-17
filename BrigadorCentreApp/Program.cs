@@ -1,10 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using BrigadorCentreApp.Data;
-using BrigadorCentreApp.Service;
+//using BrigadorCentreApp.Service;
 using BrigadorCentreApp.Utility.AppSettingClasses;
 using BrigadorCentreApp.Utility.DIConfig;
-using BrigadorCentreApp.Service.LifeTimeExample;
-using BrigadorCentreApp.Middleware;
+//using BrigadorCentreApp.Middleware;
 using BrigadorCentreApp.Models;
 using Microsoft.EntityFrameworkCore;
 //https://github.com/dotnet/extensions/issues/2084
