@@ -15,4 +15,8 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-image: url("../../Views/images/menu/dusty_screen_overlay_new.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
 }

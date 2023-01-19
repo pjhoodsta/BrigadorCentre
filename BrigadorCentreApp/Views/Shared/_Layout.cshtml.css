@@ -48,9 +48,3 @@ button.accept-policy {
   white-space: nowrap;
   line-height: 60px;
 }
-body {
-  background-image: url("../images/menu/dusty_screen_overlay_new.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: 0;
-}
